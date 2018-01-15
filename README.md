@@ -7,6 +7,7 @@ It contains discussions and Python3/TensorFlow implementations of several standa
 2. **Recurrent Neural Network Regularization**, Zaremba et al, 2014 \[ [pdf](References/zaremba.pdf) | [discussion](zaremba.ipynb) ]
 3. **On the state-of-the-art evaluation in Neural Language Models**, Melis et al, 2017 \[ [pdf](References/melis.pdf) | [discussion](melis.ipynb) ]
 4. **Regularizing and Optimizing LSTM Language Models**, Merity et al, 2017 \[ [pdf](References/merity.pdf) | [discussion](merity.ipynb) ]
+5. **Distilling the Knowledge in a Neural Network**, G. Hinton et al, 2015 \[ [pdf](References/hinton.pdf) ]
 ## References
 * [**Vector Representations of Words** - TensorFlow](https://www.tensorflow.org/tutorials/word2vec) : This tutorial is about the `word2vec` model described by Mikolov et al \[[pdf](References/word_embeddings_mikolov.pdf)] and its implementation using TensorFlow
 * [**Efficient Estimation of Word Representations in Vector Space** - Mikolov et al., 2013](References/mikolov_word_vectors.pdf) : This paper talks about the novel architectures proposed by Mikolov et al. to learn highly effective word vectors from a large dataset in significantly less time.
